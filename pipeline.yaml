@@ -1,0 +1,27 @@
+tasks:
+
+- source: tasks/load.ipynb
+  product:
+    df: output/load-df.pkl
+    nb: output/load.ipynb
+
+- source: tasks/clean.ipynb
+  product:
+    df: output/clean-df.pkl
+    nb: output/clean.ipynb
+
+- source: tasks/train-test-split.ipynb
+  product:
+    X_train: output/train-test-split-X_train.pkl
+    y_train: output/train-test-split-y_train.pkl
+    X_test: output/train-test-split-X_test.pkl
+    y_test: output/train-test-split-y_test.pkl
+    nb: output/train-test-split.ipynb
+
+- source: tasks/linear-regression.ipynb
+  product:
+    nb: output/linear-regression.ipynb
+
+- source: tasks/random-forest-regressor.ipynb
+  product:
+    nb: output/random-forest-regressor.ipynb
