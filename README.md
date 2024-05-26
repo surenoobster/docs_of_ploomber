@@ -70,6 +70,16 @@ soorgeon refactor nb.ipynb
 ploomber build
 ```
 
+#overall 
+```sh
+soorgeon refactor path/to/nb.ipynb
+```
+
+
+ref link
+https://github.com/ploomber/soorgeon/blob/main/doc/guide.md
+
+
 
 
 
