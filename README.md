@@ -13,6 +13,34 @@ Overall comparison
 
 
 
+install: Install dependencies
+
+nb (short for notebook): Manage notebooks and scripts
+
+report: Generate a pipeline report
+
+scaffold: Create a new project
+
+status: Pipeline status summary
+
+task: Execute a single task
+
+if you want to create a project from starting pipeline 
+ploomber 
+
+```sh
+ploomber scaffold --empty
+```
+
+enter project name 
+
+then edit pipeline.yaml as per your requirement
+
+then do 
+
+```sh
+ploomber build
+```
 
 # This pipeline was automatically generated
 
@@ -41,6 +69,25 @@ Plot:
 ```sh
 ploomber plot
 ```
+
+
+for SQL 
+
+https://docs.ploomber.io/en/latest/use-cases/sql.html
+
+for debugging
+
+https://docs.ploomber.io/en/latest/user-guide/debugging.html
+
+for jupyter integration
+
+https://docs.ploomber.io/en/latest/user-guide/jupyter.html
+
+for other concepts refer 
+
+https://docs.ploomber.io/en/latest/
+
+
 
 
 
