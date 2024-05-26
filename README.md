@@ -1,3 +1,16 @@
+
+Ploomber is the fastest way to build data pipelines ⚡️
+
+
+ Use your favorite editor (Jupyter, VSCode, PyCharm) to develop interactively and deploy ☁️ without code changes (Kubernetes, Airflow, AWS Batch, and SLURM).
+
+
+Do you have legacy notebooks? Refactor them into modular pipelines with a single command.
+
+
+
+
+
 # This pipeline was automatically generated
 
 ## Setup
