@@ -8,6 +8,9 @@ Ploomber is the fastest way to build data pipelines ⚡️
 Do you have legacy notebooks? Refactor them into modular pipelines with a single command.
 
 
+Overall comparison
+![Screenshot from 2024-05-23 19-56-47](https://github.com/surenoobster/docs_of_ploomber/assets/154669584/e7ee668f-252b-4280-9339-56b659600779)
+
 
 
 
